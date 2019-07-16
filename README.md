@@ -1,4 +1,7 @@
 # ReillyBrothers.net
+## Dev Considerations
+### VS Code
+Use Visual Studio Code w/ Vetur plugin installed.
 ## Setup
 
 ### NPM and Vue
